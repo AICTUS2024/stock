@@ -1,14 +1,14 @@
 [
   {
-    "symbol": "UNH",
-    "target_price": 430
+    "symbol": "AAPL",
+    "target_price": 235
+  },
+  {
+    "symbol": "NKE",
+    "target_price": 80
   },
   {
     "symbol": "LULU",
-    "target_price": 345
-  },
-  {
-    "symbol": "AAPL",
-    "target_price": 235
+    "target_price": 344
   }
 ]
