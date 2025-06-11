@@ -1,14 +1,14 @@
 [
   {
+    "symbol": "ORLY",
+    "target_price": 1200
+  },
+  {
     "symbol": "UNH",
-    "target_price": 450
+    "target_price": 700
   },
   {
-    "symbol": "SLB",
-    "target_price": 54
-  },
-  {
-    "symbol": "HAL",
-    "target_price": 33.58
+    "symbol": "FI",
+    "target_price": 240
   }
 ]
