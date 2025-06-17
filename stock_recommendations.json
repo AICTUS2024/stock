@@ -4,11 +4,11 @@
     "target_price": 426.52
   },
   {
-    "symbol": "LULU",
-    "target_price": 340.26
-  },
-  {
     "symbol": "FI",
     "target_price": 220.27
+  },
+  {
+    "symbol": "TPL",
+    "target_price": 917.0
   }
 ]
